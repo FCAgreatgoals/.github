@@ -4,4 +4,14 @@
   </a>
 <p/>
 
-Bienvenue sur l'organisation Github de [French Community Agency](https://fca.gg) ! Ici, vous pourrez retrouver les composants open source de nos projets, notamment des librairies utilitaires.
+## Présentation
+
+Bienvenue sur l'organisation Github de [French Community Agency](https://fca.gg) !
+Ici, vous pourrez retrouver les composants open source de nos projets, notamment des librairies utilitaires.
+
+---
+
+## Overview
+
+Welcome to the GitHub organization of [French Community Agency](https://fca.gg/en)!
+Here you'll find the open source components from our projects, including various utility libraries.
